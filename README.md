@@ -1,2 +1,0 @@
-# Mincraft
-Personal Server
